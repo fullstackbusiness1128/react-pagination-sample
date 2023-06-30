@@ -1,5 +1,5 @@
-# react-pagination-example
+# react-pagination-sample
 
-React - Pagination Example with Logic like Google
+react-pagination-sample with Logic like Google
 
-To see a demo and further details go to http://jasonwatmore.com/post/2017/03/14/react-pagination-example-with-logic-like-google
+If you want to know about that in details, please go to http://jasonwatmore.com/post/2017/03/14/react-pagination-example-with-logic-like-google
